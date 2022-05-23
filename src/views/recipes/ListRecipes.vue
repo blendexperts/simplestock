@@ -150,7 +150,7 @@
         variant="primary"
         :to="{ name: 'create-recipe'}"
       >
-        Create Recipe
+        Add Recipe
       </b-button>
     </b-card-body>
 
